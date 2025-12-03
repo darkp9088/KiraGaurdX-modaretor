@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE_RAW_LINK_HERE" width="750" alt="Moderator Bot Banner">
+  <img src="https://github.com/darkp9088/KiraGaurdX-modaretor/blob/main/modaretor.png" width="750" alt="Moderator Bot Banner">
 </p>
 
 # 🛡️ Moderator Bot  
