@@ -602,7 +602,7 @@ def pretty_welcome_text(chat_id: int, first_name: str, username: Optional[str]) 
 
     # Stylish full welcome banner
     welcome_banner = (
-        f"📀 <b>WELCOME TO 𝐊𝐢𝐫𝐚𝐆𝐮𝐚𝐫𝐝𝐗!</b> 🎵\n\n"
+        f"📀 <b>WELCOME TO BOT_NAME</b> 🎵\n\n"
         "🚀 <b>TOP-NOTCH 24×7 UPTIME & SUPPORT</b>\n"
         "💎 <b>CRYSTAL-CLEAR MANAGEMENT</b>\n"
         "🛡 <b>ANTI-SPAM • ANTI-LINK • AUTO-MOD</b>\n\n"
@@ -2147,3 +2147,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
