@@ -1,0 +1,13 @@
+python-telegram-bot
+aiohttp
+aiosqlite
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-httplib2
+httplib2
+oauth2client
+requests
+pytz
+deep-translator
+httpx
